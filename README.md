@@ -15,5 +15,5 @@ Kelas akademik yang memiliki atribut asal_universitas, email_edu
 Program ini menampilkan data mahasiswa dengan atribut yang dimiliki oleh ketiga kelas yang telah disebutkan di atas.
 
 ### Run
-javac Main.java
+javac Main.java<br>
 java Main
